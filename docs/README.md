@@ -6,8 +6,6 @@ GW Libraries has committed to preserving and providing access to this carefully 
 
 Through its digital stewardship commitments, GW Libraries offers several tiers of preservation services, depending on the source, format, historical value, access restrictions associated with the material.
 
-<div class="centered">
-
 ## Preservation Tiers
 
 ### Tier 0
@@ -67,5 +65,3 @@ Works produced or sponsored by GW faculty, researchers and/or staff
 GW administrative records of enduring historical value (University Archives)
 
 Selected cultural heritage materials
-
-</div>
