@@ -12,52 +12,41 @@ Through its digital stewardship commitments, GW Libraries offers several tiers o
 
 **Storage:**  
 1 Copy (on original storage media)  
-[More details](#)  
+[More details](#)
+
 **Example content**  
 Cultural heritage material deposited on obsolete storage media (such as floppy disks and CDs)
 
 ### Tier 1
 
-**Storage:** 
-
+**Storage:**  
 1 Copy + Business-grade Backups
 
-**Storage Hardware:** 
-
+**Storage Hardware:**  
 Storage hardware is regularly monitored and updated
 
 [More details](#)
 
-**Example content**
-
-Cultural heritage material, digitized 
-
-Cultural heritage material, deposited through upload or file transfer
-
-Cultural heritage material, deposited on hard drives
-
-GW administrative records of enduring historical value (University Archives)
+**Example content**  
+Cultural heritage material, digitized  
+Cultural heritage material, deposited through upload or file transfer  
+Cultural heritage material, deposited on hard drives  
+GW administrative records of enduring historical value (University Archives)  
 
 ### Tier 2
 
-**Storage:**
-
+**Storage:**  
 1 Copy + Preservation-grade Backups
 
-**Storage Hardware:**
-
+**Storage Hardware:**  
 Storage hardware is regularly monitored and updated
 
-**Health checks:**
-
+**Health checks:**  
 Files receive digital fingerprints that are regularly monitored
 
 [More details](#)
 
-**Example eligible content**
-
-Works produced or sponsored by GW faculty, researchers and/or staff
-
-GW administrative records of enduring historical value (University Archives)
-
+**Example eligible content**  
+Works produced or sponsored by GW faculty, researchers and/or staff  
+GW administrative records of enduring historical value (University Archives)  
 Selected cultural heritage materials
