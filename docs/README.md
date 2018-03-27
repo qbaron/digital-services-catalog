@@ -1,6 +1,7 @@
 
 
 
+
 # GW Libraries Digital Stewardship Service Catalog
 GW Libraries’ digital stewardship services provides long-term preservation of **selected unique, rare, and institutionally-created digital materials**, such as student and faculty research products, University records of enduring value, and specialized cultural heritage collections. These include **born-digital and digitized materials**.
 
@@ -8,11 +9,13 @@ GW Libraries has committed to preserving and providing access to this carefully 
 
 Through its digital stewardship commitments, GW Libraries offers several tiers of preservation services, depending on the source, format, historical value, access restrictions associated with the material.
 
-## <span align="center">Preservation Tiers</span>
+<div class="centered">
+
+## Preservation Tiers
 
 ### Tier 0
 **Storage:**
-<span align="center">1 Copy (on original storage media)</span>
+1 Copy (on original storage media)
 [More details](#)
 **Example content**
 Cultural heritage material deposited on obsolete storage media (such as floppy disks and CDs)
@@ -41,3 +44,5 @@ Files receive digital fingerprints that are regularly monitored
 Works produced or sponsored by GW faculty, researchers and/or staff
 GW administrative records of enduring historical value (University Archives)
 Selected cultural heritage materials
+
+</div>
