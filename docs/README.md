@@ -10,13 +10,10 @@ Through its digital stewardship commitments, GW Libraries offers several tiers o
 
 ### Tier 0
 
-**Storage:**
-1 Copy (on original storage media)
-
-[More details](#)
-
-**Example content**
-
+**Storage:**  
+1 Copy (on original storage media)  
+[More details](#)  
+**Example content**  
 Cultural heritage material deposited on obsolete storage media (such as floppy disks and CDs)
 
 ### Tier 1
