@@ -13,7 +13,7 @@ Through its digital stewardship commitments, GW Libraries offers several tiers o
 <h1 class="centered">Tier 0</h1>
 
 <p class="centered"><strong>Storage:</strong><br>
-<img class="centered">src="assets/images/icon-cd.png"><br>
+<img class="centered" src="assets/images/icon-cd.png"><br>
 1 Copy (on original storage media)<br></p>
 
 <p class="centered"><a href="#">More details</a></p>
@@ -24,11 +24,11 @@ Cultural heritage material deposited on obsolete storage media (such as floppy d
 <h1 class="centered">Tier 1</h1>
 
 <p class="centered"><strong>Storage:</strong><br>
-<img class="centered">src="assets/images/icon-server-backups-business.png"><br>
+<img class="centered" src="assets/images/icon-server-backups-business.png"><br>
 1 Copy + Business-grade Backups</p>
 
 <p class="centered"><strong>Storage Hardware:</strong><br>
-<img class="centered">src="assets/images/icon-server-monitoring.png"><br>
+<img class="centered" src="assets/images/icon-server-monitoring.png"><br>
 Storage hardware is regularly monitored and updated</p>
 
 <p class="centered"><a href="#">More details</a></p>
@@ -42,15 +42,15 @@ GW administrative records of enduring historical value (University Archives)</p>
 <h1  class="centered">Tier 2</h1>
 
 <p class="centered"><strong>Storage:</strong><br>
-<img class="centered">src="assets/images/icon-server-backups-preservation.png"><br>
+<img class="centered" src="assets/images/icon-server-backups-preservation.png"><br>
 1 Copy + Preservation-grade Backups</p>
 
 <p class="centered"><strong>Storage Hardware:</strong><br>
-<img class="centered">src="assets/images/icon-server-monitoring.png"><br>
+<img class="centered" src="assets/images/icon-server-monitoring.png"><br>
 Storage hardware is regularly monitored and updated</p>
 
 <p class="centered"><strong>Health checks:</strong><br>
-<img class="centered">src="assets/images/icon-checksum-health-checks.png"><br>
+<img class="centered" src="assets/images/icon-checksum-health-checks.png"><br>
 Every file receives a digital fingerprint that is regularly monitored for any changes.</p>
 
 <p class="centered"><a href="#">More details</a></p>
