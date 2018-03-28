@@ -19,6 +19,8 @@ Through its digital stewardship commitments, GW Libraries offers several tiers o
 Cultural heritage material deposited on obsolete storage media (such as floppy disks and CDs)</p>
 <p class="centered"><a href="#">More details</a></p>
 
+--
+
 <h1 class="centered">Tier 1</h1>
 <table class="two">
   <tr>
@@ -36,6 +38,8 @@ Cultural heritage material, deposited through upload or file transfer<br>
 Cultural heritage material, deposited on hard drives<br>
 GW administrative records of enduring historical value (University Archives)</p>
 <p class="centered"><a href="#">More details</a></p>
+
+--
 
 <h1 class="centered">Tier 2</h1>
 <table class="three">
