@@ -21,7 +21,9 @@ Cultural heritage material deposited on obsolete storage media (such as floppy d
 <p class="centered"><a href="https://github.com/reliztrent/digital-services-catalog">More details</a></p>
 </div>
 
-
+<p> </p>
+-------
+<p> </p>
 
 <div class="tier-container">
 <h1 class="centered">Tier 1</h1>
@@ -43,7 +45,9 @@ GW administrative records of enduring historical value (University Archives)</p>
 <p class="centered"><a href="https://github.com/reliztrent/digital-services-catalog">More details</a></p>
 </div>
 
-
+<p> </p>
+-------
+<p> </p>
 
 <div class="tier-container">
 <h1 class="centered">Tier 2</h1>
