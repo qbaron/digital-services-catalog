@@ -2,11 +2,8 @@ GW Libraries' digital stewardship services provides long-term preservation of **
 
 GW Libraries has committed to preserving and providing access to this carefully selected set of digital materials over the long term. Commitments are the result of strategic resource planning that balances the benefits of providing engaging, rich access for today’s users with key investments to support access for future users.
 
--------
-
 Through its digital stewardship commitments, GW Libraries offers several tiers of preservation services, depending on the source, format, historical value, access restrictions associated with the material.
 
--------
 
 <div class="tier-container">
 <h1 class="centered">Tier 0</h1>
