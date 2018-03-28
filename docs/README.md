@@ -15,7 +15,7 @@ Through its digital stewardship commitments, GW Libraries offers several tiers o
 </table>
 <p class="centered"><strong>Example content</strong><br>
 Cultural heritage material deposited on obsolete storage media (such as floppy disks and CDs)</p>
-<p class="centered"><a href="#">More details</a></p>
+<p class="centered"><a href="https://github.com/reliztrent/digital-services-catalog">More details</a></p>
 
 --
 
@@ -79,7 +79,7 @@ Cultural heritage material deposited on obsolete storage media (such as floppy d
 <img class="centered" src="assets/images/icon-server-monitoring.png"><br>
 Storage hardware is regularly monitored and updated</p>
 
-<p class="centered"><a href="#">More details</a></p>
+<p class="centered"><a href="https://github.com/reliztrent/digital-services-catalog">More details</a></p>
 
 <p class="centered"><strong>Example content</strong><br>
 Cultural heritage material, digitized<br>
@@ -101,7 +101,7 @@ Storage hardware is regularly monitored and updated</p>
 <img class="centered" src="assets/images/icon-checksum-health-checks.png"><br>
 Every file receives a digital fingerprint that is regularly monitored for any changes.</p>
 
-<p class="centered"><a href="#">More details</a></p>
+<p class="centered"><a href="https://github.com/reliztrent/digital-services-catalog">More details</a></p>
 
 <p class="centered"><strong>Example eligible content</strong><br>
 Works produced or sponsored by GW faculty, researchers and/or staff<br>
