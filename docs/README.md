@@ -13,6 +13,7 @@ Through its digital stewardship commitments, GW Libraries offers several tiers o
 <h1 class="centered">Tier 0</h1>
 
 <p class="centered"><strong>Storage:</strong><br>
+<img src="assets/images/icon-cd.png">
 1 Copy (on original storage media)<br></p>
 
 <p class="centered"><a href="#">More details</a></p>
