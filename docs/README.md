@@ -15,7 +15,7 @@ Through its digital stewardship commitments, GW Libraries offers several tiers o
     <td><img class="centered" src="assets/images/icon-cd.png"><br>1 Copy (on original storage media)</td>
   </tr>
 </table>
-<p class="centered"><strong>Example content</strong><br>
+<p class="centered"><strong>Eligible content</strong><br>
 Cultural heritage material deposited on obsolete storage media (such as floppy disks and CDs)</p>
 <p class="centered"><a href="https://github.com/reliztrent/digital-services-catalog">More details</a></p>
 
@@ -34,7 +34,7 @@ Cultural heritage material deposited on obsolete storage media (such as floppy d
 	<td><img class="centered" src="assets/images/icon-server-monitoring.png"><br>Storage hardware is regularly monitored and updated.</td>
   </tr>
 </table>
-<p class="centered"><strong>Example content</strong><br>
+<p class="centered"><strong>Eligible content</strong><br>
 Cultural heritage material, digitized<br>
 Cultural heritage material, deposited through upload or file transfer<br>
 Cultural heritage material, deposited on hard drives<br>
@@ -58,7 +58,7 @@ GW administrative records of enduring historical value (University Archives)</p>
 	<td><img class="centered" src="assets/images/icon-checksum-health-checks.png"><br>Every file receives a digital fingerprint that is regularly monitored for any changes.</td>
   </tr>
 </table>
-<p class="centered"><strong>Example eligible content</strong><br>
+<p class="centered"><strong>Eligible eligible content</strong><br>
 Works produced or sponsored by GW faculty, researchers and/or staff<br>
 GW administrative records of enduring historical value (University Archives)<br>
 Selected cultural heritage materials</p>
