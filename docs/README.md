@@ -6,6 +6,7 @@ GW Libraries has committed to preserving and providing access to this carefully 
 
 Through its digital stewardship commitments, GW Libraries offers several tiers of preservation services, depending on the source, format, historical value, access restrictions associated with the material.
 
+<div class="tier-container">
 <h1 class="centered">Tier 0</h1>
 <table class="one">
   <tr>
@@ -18,6 +19,7 @@ Through its digital stewardship commitments, GW Libraries offers several tiers o
 <p class="centered"><strong>Eligible content</strong><br>
 Cultural heritage material deposited on obsolete storage media (such as floppy disks and CDs)</p>
 <p class="centered"><a href="https://github.com/reliztrent/digital-services-catalog">More details</a></p>
+</div>
 
 <p> </p>
 -------
