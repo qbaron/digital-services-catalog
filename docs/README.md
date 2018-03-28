@@ -15,7 +15,7 @@ Through its digital stewardship commitments, GW Libraries offers several tiers o
     <td><img class="centered" src="assets/images/icon-cd.png"><br>1 Copy (on original storage media)</td>
   </tr>
 </table>
-<p class="centered"><strong>Eligible content</strong><br>
+<p class="centered"><strong>Content Types</strong><br>
 Cultural heritage material deposited on obsolete storage media (such as floppy disks and CDs)</p>
 <p class="centered"><a href="https://github.com/reliztrent/digital-services-catalog">More details</a></p>
 </div>
@@ -26,21 +26,23 @@ Cultural heritage material deposited on obsolete storage media (such as floppy d
 
 <div class="tier-container">
 <h1 class="centered">Tier 1</h1>
-<table class="two">
+<table class="three">
   <tr>
     <th>Storage:</th>
 	<th>Storage hardware:</th>
+	<th>URLs:</th>
   </tr>
   <tr>
     <td><img class="centered" src="assets/images/icon-server.png"> <img class="centered" src="assets/images/icon-server-backups-business.png"><br>1 Copy + Business-grade Backups</td>
 	<td><img class="centered" src="assets/images/icon-server-monitoring.png"><br>Storage hardware is regularly monitored and updated.</td>
+	<td><img class="centered" src="assets/images/icon-persistent-url.png"><br>Items receive persistent URLs in [ScholarSpace](https://scholarspace.library.gwu.edu).</td>
   </tr>
 </table>
-<p class="centered"><strong>Eligible content</strong><br>
-Cultural heritage material, digitized<br>
-Cultural heritage material, deposited through upload or file transfer<br>
-Cultural heritage material, deposited on hard drives<br>
-GW administrative records of enduring historical value (University Archives)</p>
+<p class="centered"><strong>Content Types</strong><br>
+Electronic Theses and Dissertations<br>
+Works produced or sponsored by GW faculty, researchers and/or staff<br>
+GW administrative records of enduring historical value (University Archives)<br>
+Selected cultural heritage materials</p>
 <p class="centered"><a href="https://github.com/reliztrent/digital-services-catalog">More details</a></p>
 </div>
 
@@ -62,59 +64,9 @@ GW administrative records of enduring historical value (University Archives)</p>
 	<td><img class="centered" src="assets/images/icon-checksum-health-checks.png"><br>Every file receives a digital fingerprint that is regularly monitored for any changes.</td>
   </tr>
 </table>
-<p class="centered"><strong>Eligible eligible content</strong><br>
-Works produced or sponsored by GW faculty, researchers and/or staff<br>
-GW administrative records of enduring historical value (University Archives)<br>
-Selected cultural heritage materials</p>
+<p class="centered"><strong>Content Types</strong><br>
+Cultural heritage material, digitized<br>
+Cultural heritage material, deposited through upload, file transfer, or readable hard drives<br>
+GW organizational records of enduring historical value (University Archives)</p>
 <p class="centered"><a href="https://github.com/reliztrent/digital-services-catalog">More details</a></p>
 </div>
-
-
-<!--<h1 class="centered">Tier 0</h1>
-<p class="centered"><strong>Storage:</strong><br>
-<img class="centered" src="assets/images/icon-cd.png"><br>
-1 Copy (on original storage media)<br></p>
-
-<p class="centered"><a href="https://github.com/reliztrent/digital-services-catalog">More details</a></p>
-
-<p class="centered"><strong>Eligible content</strong><br>
-Cultural heritage material deposited on obsolete storage media (such as floppy disks and CDs)</p>
-
-<h1 class="centered">Tier 1</h1>
-
-<p class="centered"><strong>Storage:</strong><br>
-<img class="centered" src="assets/images/icon-server-backups-business.png"><br>
-1 Copy + Business-grade Backups</p>
-
-<p class="centered"><strong>Storage Hardware:</strong><br>
-<img class="centered" src="assets/images/icon-server-monitoring.png"><br>
-Storage hardware is regularly monitored and updated</p>
-
-<p class="centered"><a href="https://github.com/reliztrent/digital-services-catalog">More details</a></p>
-
-<p class="centered"><strong>Eligible content</strong><br>
-Cultural heritage material, digitized<br>
-Cultural heritage material, deposited through upload or file transfer<br>
-Cultural heritage material, deposited on hard drives<br>
-GW administrative records of enduring historical value (University Archives)</p>
-
-<h1  class="centered">Tier 2</h1>
-
-<p class="centered"><strong>Storage:</strong><br>
-<img class="centered" src="assets/images/icon-server-backups-preservation.png"><br>
-1 Copy + Preservation-grade Backups</p>
-
-<p class="centered"><strong>Storage Hardware:</strong><br>
-<img class="centered" src="assets/images/icon-server-monitoring.png"><br>
-Storage hardware is regularly monitored and updated</p>
-
-<p class="centered"><strong>Health checks:</strong><br>
-<img class="centered" src="assets/images/icon-checksum-health-checks.png"><br>
-Every file receives a digital fingerprint that is regularly monitored for any changes.</p>
-
-<p class="centered"><a href="https://github.com/reliztrent/digital-services-catalog">More details</a></p>
-
-<p class="centered"><strong>Eligible content</strong><br>
-Works produced or sponsored by GW faculty, researchers and/or staff<br>
-GW administrative records of enduring historical value (University Archives)<br>
-Selected cultural heritage materials</p>-->
