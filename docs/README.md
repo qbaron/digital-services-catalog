@@ -11,10 +11,10 @@ Through its digital stewardship commitments, GW Libraries offers several tiers o
 <h2 class="centered">Preservation Tiers</h2>
 
 <h1 class="centered">Tier 0</h1>
+| <img class="centered" src="assets/images/icon-cd.png">  | Second Header |
+| ------------- | ------------- |
+| <p class="centered"><strong>Storage:</strong><br>1 Copy (on original storage media)<br></p>  | Content Cell  |
 
-<p class="centered"><strong>Storage:</strong><br>
-<img class="centered" src="assets/images/icon-cd.png"><br>
-1 Copy (on original storage media)<br></p>
 
 <p class="centered"><a href="#">More details</a></p>
 
