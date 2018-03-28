@@ -40,9 +40,7 @@ Cultural heritage material deposited on obsolete storage media (such as floppy d
 </table>
 <p class="centered"><strong>Content Types</strong><br>
 Electronic Theses and Dissertations<br>
-Works produced or sponsored by GW faculty, researchers and/or staff<br>
-GW administrative records of enduring historical value (University Archives)<br>
-Selected cultural heritage materials</p>
+GW scholarly works by faculty, researchers and/or staff<br>
 <p class="centered"><a href="https://github.com/reliztrent/digital-services-catalog">More details</a></p>
 </div>
 
