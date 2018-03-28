@@ -28,7 +28,7 @@ Cultural heritage material deposited on obsolete storage media (such as floppy d
 	<th>Storage hardware:</th>
   </tr>
   <tr>
-    <td><img class="centered" src="assets/images/icon-server-backups-business.png"><br>1 Copy + Business-grade Backups</td>
+    <td><img class="centered" src="assets/images/icon-server.png"> <img class="centered" src="assets/images/icon-server-backups-business.png"><br>1 Copy + Business-grade Backups</td>
 	<td><img class="centered" src="assets/images/icon-server-monitoring.png"><br>Storage hardware is regularly monitored and updated</td>
   </tr>
 </table>
@@ -51,7 +51,7 @@ GW administrative records of enduring historical value (University Archives)</p>
 	<th>Health checks:</th>
   </tr>
   <tr>
-    <td><img class="centered" src="assets/images/icon-server-backups-preservation.png"><br>1 Copy + Preservation-grade Backups</td>
+    <td><img class="centered" src="assets/images/icon-server.png"> <img class="centered" src="assets/images/icon-server-backups-preservation.png"><br>1 Copy + Preservation-grade Backups</td>
 	<td><img class="centered" src="assets/images/icon-server-monitoring.png"><br>Storage hardware is regularly monitored and updated</td>
 	<td><img class="centered" src="assets/images/icon-checksum-health-checks.png"><br>Every file receives a digital fingerprint that is regularly monitored for any changes.</td>
   </tr>
