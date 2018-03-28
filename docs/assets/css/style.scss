@@ -4,3 +4,8 @@
 @import "{{ site.theme }}";
 .centered {text-align:center}
 img.centered {height:100px;}
+table.two th,table.two tr {width:50%;}
+table.three th,table.three tr {width:33%;}
+th.four,tr.four {width:25%;}
+th,tr {text-align:center;}
+table, th, td, tr {border:0px !important;vertical-align:top;}
