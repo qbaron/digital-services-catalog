@@ -12,35 +12,38 @@ Through its digital stewardship commitments, GW Libraries offers several tiers o
 
 
 <h1 class="centered">Tier 0</h1>
-<table class="two">
+<table>
   <tr>
     <th>Storage</th>
-    <th>Example content</th>
   </tr>
   <tr>
     <td><img class="centered" src="assets/images/icon-cd.png"><br>1 Copy (on original storage media)</td>
-    <td>Cultural heritage material deposited on obsolete storage media (such as floppy disks and CDs)</td>
   </tr>
 </table>
+<p class="centered"><a href="#">More details</a></p>
+
+<p class="centered"><strong>Example content</strong><br>
+Cultural heritage material deposited on obsolete storage media (such as floppy disks and CDs)</p>
 
 <h1 class="centered">Tier 1</h1>
-<table class="three">
+<table class="two">
   <tr>
     <th>Storage</th>
 	<th>Storage Hardware:</th>
-    <th>Example content:</th>
   </tr>
   <tr>
     <td><img class="centered" src="assets/images/icon-server-backups-business.png"><br>1 Copy + Business-grade Backups</td>
-	<td><img class="centered" src="assets/images/icon-server-backups-business.png">Storage hardware is regularly monitored and updated</td>
-    <td>
-		Cultural heritage material, digitized<br>
-		Cultural heritage material, deposited through upload or file transfer<br>
-		Cultural heritage material, deposited on hard drives<br>
-		GW administrative records of enduring historical value (University Archives)
+	<td><img class="centered" src="assets/images/icon-server-backups-business.png"><br>Storage hardware is regularly monitored and updated</td>
 	</td>
   </tr>
 </table>
+<p class="centered"><a href="#">More details</a></p>
+
+<p class="centered"><strong>Example content</strong><br>
+Cultural heritage material, digitized<br>
+Cultural heritage material, deposited through upload or file transfer<br>
+Cultural heritage material, deposited on hard drives<br>
+GW administrative records of enduring historical value (University Archives)</p>
 
 
 
