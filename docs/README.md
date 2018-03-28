@@ -38,7 +38,7 @@ GW administrative records of enduring historical value (University Archives)</p>
 <p class="centered"><a href="#">More details</a></p>
 
 <h1 class="centered">Tier 2</h1>
-<table class="two">
+<table class="three">
   <tr>
     <th>Storage:</th>
 	<th>Storage hardware:</th>
