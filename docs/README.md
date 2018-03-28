@@ -12,43 +12,43 @@ Through its digital stewardship commitments, GW Libraries offers several tiers o
 
 <h3 class="centered">Tier 0</h3>
 
-<p class="centered"><strong>Storage:</strong></p>
-1 Copy (on original storage media)  
-[More details](#)
+<p class="centered"><strong>Storage:</strong><br>
+1 Copy (on original storage media)<br>
+<a href="#">More details</a></p>
 
-**Example content**  
-Cultural heritage material deposited on obsolete storage media (such as floppy disks and CDs)
+<p><strong>Example content</strong><br>
+Cultural heritage material deposited on obsolete storage media (such as floppy disks and CDs)</p>
 
-### Tier 1
+<h3 id="tier-1">Tier 1</h3>
 
-**Storage:**  
-1 Copy + Business-grade Backups
+<p><strong>Storage:</strong><br>
+1 Copy + Business-grade Backups</p>
 
-**Storage Hardware:**  
-Storage hardware is regularly monitored and updated
+<p><strong>Storage Hardware:</strong><br>
+Storage hardware is regularly monitored and updated</p>
 
-[More details](#)
+<p><a href="#">More details</a></p>
 
-**Example content**  
-Cultural heritage material, digitized  
-Cultural heritage material, deposited through upload or file transfer  
-Cultural heritage material, deposited on hard drives  
-GW administrative records of enduring historical value (University Archives)  
+<p><strong>Example content</strong><br>
+Cultural heritage material, digitized<br>
+Cultural heritage material, deposited through upload or file transfer<br>
+Cultural heritage material, deposited on hard drives<br>
+GW administrative records of enduring historical value (University Archives)</p>
 
-### Tier 2
+<h3 id="tier-2">Tier 2</h3>
 
-**Storage:**  
-1 Copy + Preservation-grade Backups
+<p><strong>Storage:</strong><br>
+1 Copy + Preservation-grade Backups</p>
 
-**Storage Hardware:**  
-Storage hardware is regularly monitored and updated
+<p><strong>Storage Hardware:</strong><br>
+Storage hardware is regularly monitored and updated</p>
 
-**Health checks:**  
-Files receive digital fingerprints that are regularly monitored
+<p><strong>Health checks:</strong><br>
+Files receive digital fingerprints that are regularly monitored</p>
 
-[More details](#)
+<p><a href="#">More details</a></p>
 
-**Example eligible content**  
-Works produced or sponsored by GW faculty, researchers and/or staff  
-GW administrative records of enduring historical value (University Archives)  
-Selected cultural heritage materials
+<p><strong>Example eligible content</strong><br>
+Works produced or sponsored by GW faculty, researchers and/or staff<br>
+GW administrative records of enduring historical value (University Archives)<br>
+Selected cultural heritage materials</p>
