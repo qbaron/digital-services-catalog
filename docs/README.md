@@ -35,7 +35,7 @@ Cultural heritage material deposited on obsolete storage media (such as floppy d
   <tr>
     <td><img class="centered" src="assets/images/icon-server.png"> <img class="centered" src="assets/images/icon-server-backups-business.png"><br>1 Copy + Business-grade Backups</td>
 	<td><img class="centered" src="assets/images/icon-server-monitoring.png"><br>Storage hardware is regularly monitored and updated.</td>
-	<td><img class="centered" src="assets/images/icon-persistent-url.png"><br>Items receive persistent URLs in [ScholarSpace](https://scholarspace.library.gwu.edu).</td>
+	<td><img class="centered" src="assets/images/icon-persistent-url.png"><br>Items receive persistent URLs in <a href="https://scholarspace.library.gwu.edu">ScholarSpace</a>.</td>
   </tr>
 </table>
 <p class="centered"><strong>Content Types</strong><br>
