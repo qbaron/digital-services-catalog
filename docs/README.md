@@ -8,11 +8,11 @@ Through its digital stewardship commitments, GW Libraries offers several tiers o
 
 
 
-<h2><span class="centered">Preservation Tiers</span></h2>
+<h2 class="centered">Preservation Tiers</h2>
 
-<h3><span class="centered">Tier 0</span></h3>
+<h3 class="centered">Tier 0</h3>
 
-<span class="centered"><strong>Storage:</strong></span>
+<p class="centered"><strong>Storage:</strong></p>
 1 Copy (on original storage media)  
 [More details](#)
 
