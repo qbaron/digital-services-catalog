@@ -25,6 +25,7 @@ Cultural heritage material deposited on obsolete storage media (such as floppy d
 -------
 <p> </p>
 
+<div class="tier-container">
 <h1 class="centered">Tier 1</h1>
 <table class="two">
   <tr>
@@ -42,11 +43,13 @@ Cultural heritage material, deposited through upload or file transfer<br>
 Cultural heritage material, deposited on hard drives<br>
 GW administrative records of enduring historical value (University Archives)</p>
 <p class="centered"><a href="https://github.com/reliztrent/digital-services-catalog">More details</a></p>
+</div>
 
 <p> </p>
 -------
 <p> </p>
 
+<div class="tier-container">
 <h1 class="centered">Tier 2</h1>
 <table class="three">
   <tr>
@@ -65,6 +68,7 @@ Works produced or sponsored by GW faculty, researchers and/or staff<br>
 GW administrative records of enduring historical value (University Archives)<br>
 Selected cultural heritage materials</p>
 <p class="centered"><a href="https://github.com/reliztrent/digital-services-catalog">More details</a></p>
+</div>
 
 
 <!--<h1 class="centered">Tier 0</h1>
