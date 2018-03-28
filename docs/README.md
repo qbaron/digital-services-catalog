@@ -1,3 +1,5 @@
+<h1>{{ site.title | default: site.github.repository_name }}</h1>
+<h2>{{ site.description | default: site.github.project_tagline }}</h2>
 GW Libraries' digital stewardship services provides long-term preservation of **selected unique, rare, and institutionally-created digital materials**, such as student and faculty research products, University records of enduring value, and specialized cultural heritage collections. These include **born-digital and digitized materials**.
 
 GW Libraries has committed to preserving and providing access to this carefully selected set of digital materials over the long term. Commitments are the result of strategic resource planning that balances the benefits of providing engaging, rich access for today’s users with key investments to support access for future users.
