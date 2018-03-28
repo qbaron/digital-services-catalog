@@ -41,6 +41,7 @@ Cultural heritage material deposited on obsolete storage media (such as floppy d
 <p class="centered"><strong>Content Types</strong><br>
 Electronic Theses and Dissertations<br>
 GW scholarly works by faculty, researchers and/or staff<br>
+</p>
 <p class="centered"><a href="https://github.com/reliztrent/digital-services-catalog">More details</a></p>
 </div>
 
