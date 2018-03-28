@@ -1,6 +1,3 @@
-<h1>Digital Stewardship Services Catalog</h1>
-<h2>Description of digital stewardship services offered by GW Libraries for long-term digital library content</h2>
-
 GW Libraries' digital stewardship services provides long-term preservation of **selected unique, rare, and institutionally-created digital materials**, such as student and faculty research products, University records of enduring value, and specialized cultural heritage collections. These include **born-digital and digitized materials**.
 
 GW Libraries has committed to preserving and providing access to this carefully selected set of digital materials over the long term. Commitments are the result of strategic resource planning that balances the benefits of providing engaging, rich access for today’s users with key investments to support access for future users.
