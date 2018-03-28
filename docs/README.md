@@ -12,7 +12,7 @@ Through its digital stewardship commitments, GW Libraries offers several tiers o
 
 
 <h1 class="centered">Tier 0</h1>
-<table>
+<table class="one">
   <tr>
     <th>Storage</th>
   </tr>
@@ -34,7 +34,6 @@ Cultural heritage material deposited on obsolete storage media (such as floppy d
   <tr>
     <td><img class="centered" src="assets/images/icon-server-backups-business.png"><br>1 Copy + Business-grade Backups</td>
 	<td><img class="centered" src="assets/images/icon-server-backups-business.png"><br>Storage hardware is regularly monitored and updated</td>
-	</td>
   </tr>
 </table>
 <p class="centered"><a href="#">More details</a></p>
