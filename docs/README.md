@@ -16,39 +16,39 @@ Through its digital stewardship commitments, GW Libraries offers several tiers o
 1 Copy (on original storage media)<br>
 <a href="#">More details</a></p>
 
-<p><strong>Example content</strong><br>
+<p class="centered"><strong>Example content</strong><br>
 Cultural heritage material deposited on obsolete storage media (such as floppy disks and CDs)</p>
 
-<h3 id="tier-1">Tier 1</h3>
+<h3 class="centered">Tier 1</h3>
 
-<p><strong>Storage:</strong><br>
+<p class="centered"><strong>Storage:</strong><br>
 1 Copy + Business-grade Backups</p>
 
-<p><strong>Storage Hardware:</strong><br>
+<p class="centered"><strong>Storage Hardware:</strong><br>
 Storage hardware is regularly monitored and updated</p>
 
-<p><a href="#">More details</a></p>
+<p class="centered"><a href="#">More details</a></p>
 
-<p><strong>Example content</strong><br>
+<p class="centered"><strong>Example content</strong><br>
 Cultural heritage material, digitized<br>
 Cultural heritage material, deposited through upload or file transfer<br>
 Cultural heritage material, deposited on hard drives<br>
 GW administrative records of enduring historical value (University Archives)</p>
 
-<h3 id="tier-2">Tier 2</h3>
+<h3  class="centered">Tier 2</h3>
 
-<p><strong>Storage:</strong><br>
+<p class="centered"><strong>Storage:</strong><br>
 1 Copy + Preservation-grade Backups</p>
 
-<p><strong>Storage Hardware:</strong><br>
+<p class="centered"><strong>Storage Hardware:</strong><br>
 Storage hardware is regularly monitored and updated</p>
 
-<p><strong>Health checks:</strong><br>
+<p class="centered"><strong>Health checks:</strong><br>
 Files receive digital fingerprints that are regularly monitored</p>
 
-<p><a href="#">More details</a></p>
+<p class="centered"><a href="#">More details</a></p>
 
-<p><strong>Example eligible content</strong><br>
+<p class="centered"><strong>Example eligible content</strong><br>
 Works produced or sponsored by GW faculty, researchers and/or staff<br>
 GW administrative records of enduring historical value (University Archives)<br>
 Selected cultural heritage materials</p>
