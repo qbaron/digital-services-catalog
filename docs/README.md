@@ -70,7 +70,7 @@ Selected cultural heritage materials</p>
 
 <p class="centered"><a href="https://github.com/reliztrent/digital-services-catalog">More details</a></p>
 
-<p class="centered"><strong>Example content</strong><br>
+<p class="centered"><strong>Eligible content</strong><br>
 Cultural heritage material deposited on obsolete storage media (such as floppy disks and CDs)</p>
 
 <h1 class="centered">Tier 1</h1>
@@ -85,7 +85,7 @@ Storage hardware is regularly monitored and updated</p>
 
 <p class="centered"><a href="https://github.com/reliztrent/digital-services-catalog">More details</a></p>
 
-<p class="centered"><strong>Example content</strong><br>
+<p class="centered"><strong>Eligible content</strong><br>
 Cultural heritage material, digitized<br>
 Cultural heritage material, deposited through upload or file transfer<br>
 Cultural heritage material, deposited on hard drives<br>
@@ -107,7 +107,7 @@ Every file receives a digital fingerprint that is regularly monitored for any ch
 
 <p class="centered"><a href="https://github.com/reliztrent/digital-services-catalog">More details</a></p>
 
-<p class="centered"><strong>Example eligible content</strong><br>
+<p class="centered"><strong>Eligible content</strong><br>
 Works produced or sponsored by GW faculty, researchers and/or staff<br>
 GW administrative records of enduring historical value (University Archives)<br>
 Selected cultural heritage materials</p>-->
